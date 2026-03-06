@@ -1,0 +1,12 @@
+node_modules/
+.next/
+*.pyc
+__pycache__/
+.pythonlibs/
+backend/uploads/
+.env
+.env.local
+dist/
+build/
+*.egg-info/
+.uv/
